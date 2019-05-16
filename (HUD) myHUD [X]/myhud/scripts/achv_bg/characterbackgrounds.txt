@@ -1,0 +1,9 @@
+"characters"
+{
+	"basic_demoman"
+	{
+		"image"	"../console/characters/nothing"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+	}
+}

@@ -1,0 +1,28 @@
+"chapters"
+{
+	1	"background_2fort"
+	2	"background_gravelpit"
+	3	"background_upward"
+	4	"background_mvm"
+	5	"tf_birdcage"
+	6	"tf_christmas"
+	7	"tf_jacknick"
+	8	"tf_loghouse_alpine"
+	9	"tf_sawmill"
+	10	"tf_wildlife"
+	11	"tf_worm"
+}
+"BackgroundMaps"
+{
+	1	"background_2fort"
+	2	"background_gravelpit"
+	3	"background_upward"
+	4	"background_mvm"
+	5	"tf_birdcage"
+	6	"tf_christmas"
+	7	"tf_jacknick"
+	8	"tf_loghouse_alpine"
+	9	"tf_sawmill"
+	10	"tf_wildlife"
+	11	"tf_worm"
+}

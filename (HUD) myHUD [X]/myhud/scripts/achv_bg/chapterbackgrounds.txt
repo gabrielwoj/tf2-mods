@@ -1,0 +1,24 @@
+"chapters"
+{
+	1	"bg_demoman"
+	2	"bg_heavy"
+	3	"bg_medic"
+	4	"bg_pyro"
+	5	"bg_scout"
+	6	"bg_sniper"
+	7	"bg_soldier"
+	8	"bg_spy"
+	9	"bg_engineer"
+}
+"BackgroundMaps"
+{
+	1	"bg_demoman"
+	2	"bg_heavy"
+	3	"bg_medic"
+	4	"bg_pyro"
+	5	"bg_scout"
+	6	"bg_sniper"
+	7	"bg_soldier"
+	8	"bg_spy"
+	9	"bg_engineer"
+}

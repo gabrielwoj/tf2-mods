@@ -15,3 +15,9 @@ The following tags will be included as prefixes, and indicates the type of the m
 If a mod doesn't include a prefix, it means it's a general mod, and it's not categorized by any of the types above.
 
 A mod may include more than one version. In case of such, there'll be folders for each version included on the mod's directory.
+
+If there's a suffix [X] at the end of a mod (or a version), it means that it may not work on current TF2. Things such as old HUDs may include this.
+
+Pictures may be included inside a mod's folder, for previewing what the specific mod changes.
+
+Finally. An additional README.md will be included in each mod, detailing what were the changes, as well soem info regarding a mod.
