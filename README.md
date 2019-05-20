@@ -14,7 +14,9 @@ The following tags will be included as prefixes, and indicates the type of the m
 
 -(Inconsistency) - Like Consistency, but reversed. Mods that aim to go as inconsistent as possible;
 
--(Pack) Mods that were packed into a compilation. Mods like these would be ready to be published in sites like Gamebanana. Mods like these usually are separated with several folders, including extras and stuff.
+-(Pack) - Mods that were packed into one big pack. Mods like these would be ready to be published in sites like Gamebanana. Mods like these usually are separated with several folders, including extras and stuff;
+
+-(Recolor) - A texture recolor that doesn't fit in any of the above categories.
 
 If a mod doesn't include a prefix, it means it's a general mod, and it's not categorized by any of the types above.
 
